@@ -79,7 +79,5 @@ Para más información sobre la instalación de **uv**, consulta la [documentaci
 Una vez configurado, podrás realizar consultas como:
 
 - "Lista las leyes estatales vigentes sobre protección de datos"
-- "Busca en la Ley 37/2015 la definición de autovía"
 - "Muestra el sumario del BOE del 14/06/2024"
-- "Obtén el texto completo del Real Decreto-ley 5/2023"
 - "Muestra la tabla de materias jurídicas del BOE"

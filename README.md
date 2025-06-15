@@ -78,7 +78,5 @@ For more information about installing uv, visit the [uv documentation](https://d
 Once configured, you can make queries like:
 
 - "List current state laws on data protection"
-- "Find the definition of 'autovía' in Law 37/2015"
 - "Show the BOE summary for June 14, 2024"
-- "Get full text of Royal Decree-Law 5/2023"
 - "Display the BOE legal domains table"
